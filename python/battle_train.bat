@@ -1,0 +1,1 @@
+python learn.py E:\GitHub\UnityML_Env\battle\battle --train --run-id=marl

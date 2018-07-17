@@ -1,0 +1,1 @@
+python learn.py E:\GitHub\UnityML_Env\gridworld\gw_obc_v2\gw_obc_v2 --train --run-id=gw_obc_v2_ppo --worker-id=2
